@@ -1,6 +1,6 @@
 # AliExpress clone: Your Gateway to a World of Products
 
-Discover a seamless shopping experience with AppName, an innovative AliExpress clone crafted to bring the global marketplace to your fingertips! Engineered using cutting-edge technology, AppName provides an intuitive interface designed to delight shoppers and sellers alike.
+Discover a seamless shopping experience, an innovative AliExpress clone crafted to bring the global marketplace to your fingertips! Engineered using cutting-edge technology, AppName provides an intuitive interface designed to delight shoppers and sellers alike.
 
 **Key Technologies:**
 
@@ -26,7 +26,7 @@ Discover a seamless shopping experience with AppName, an innovative AliExpress c
 - **Cross-Platform Accessibility:** Access your favorite marketplace anywhere, any time, on any device.
 - **Multi-Language Support:** Shop in your preferred language, making your experience as comfortable as it is exciting.
 
-**AppName transformed the global online shopping paradigm. Are you ready to be part of this revolution? Download now and join the community that's expanding horizons—one product at a time!**
+**Alexpress-clone transformed the global online shopping paradigm. Are you ready to be part of this revolution? Download now and join the community that's expanding horizons—one product at a time!**
 
 ### Application Images
 
